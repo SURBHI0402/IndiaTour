@@ -1,7 +1,7 @@
 # Welcome to the Enchanting India Tour Web Application!
 https://www.youtube.com/watch?v=C0G6ytKcqU0
 
-##Contributers : Surbhi D Raut , Pratham Shetty
+## Contributers : Surbhi D Raut , Pratham Shetty
 🌟 **Experience the Magic of India's Tourism** 🌟
 
 Dive into the captivating world of India's diverse and vibrant tourism landscape with our India Tour web application. This enchanting project seamlessly blends the power of ReactJs and Flask, sprinkled with the magic of ChartJs for illuminating tourism trend visualizations and a touch of machine learning for personalized hotel recommendations.
