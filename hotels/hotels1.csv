@@ -1,0 +1,275 @@
+Name,State,Price,District,Stars
+The Taj Mahal Palace,Maharashtra,15000,Mumbai,5
+The Oberoi,Maharashtra,12000,Mumbai,5
+Taj Lands End,Maharashtra,10000,Mumbai,4
+The Gateway Hotel,Maharashtra,8000,Aurangabad,4
+Hotel Kailas,Maharashtra,5000,Aurangabad,3
+Hotel Amarpreet,Maharashtra,4000,Aurangabad,3
+Fariyas Resort,Maharashtra,7000,Raigad,4
+Della Adventure Resort,Maharashtra,6000,Raigad,4
+Treasure Island Resort,Maharashtra,5000,Raigad,3
+Citrus Hotel,Maharashtra,4000,Pune,3
+Radisson Blu Hotel,Maharashtra,3500,Pune,4
+The Westin Pune Koregaon Park,Maharashtra,3000,Pune,5
+Sun-n-Sand Hotel,Maharashtra,6000,Ahmednagar,4
+Hotel Sai Moreshwar,Maharashtra,4000,Ahmednagar,3
+Hotel Bhagyalaxmi,Maharashtra,3000,Ahmednagar,3
+Le Méridien Mahabaleshwar Resort & Spa,Maharashtra,8000,Satara,5
+Citrus Chambers Mahabaleshwar,Maharashtra,6000,Satara,4
+Evershine Resort Mahabaleshwar,Maharashtra,5000,Satara,4
+Adamo The Resort,Maharashtra,7000,Raigad,4
+Regal Hotel,Maharashtra,5000,Raigad,3
+Hotel Kumar Plaza,Maharashtra,4000,Raigad,3
+Hotel Byke,Maharashtra,5000,Raigad,3
+Usha Ascot,Maharashtra,3000,Raigad,2
+MTDC Matheran Resort,Maharashtra,4000,Raigad,3
+The Tigers Heaven Resort,Maharashtra,6000,Chandrapur,4
+Svasara Jungle Lodge,Maharashtra,5000,Chandrapur,4
+Tadoba Tiger Resort,Maharashtra,4000,Chandrapur,3
+The TAJ Hotel,Maharashtra,12000,Aurangabad,5
+Hotel Samrat,Maharashtra,4000,Aurangabad,3
+Hotel Raj,Maharashtra,3000,Aurangabad,2
+Taj Exotica Resort & Spa,Goa,25000,South Goa,5
+Park Hyatt Goa Resort and Spa,Goa,18000,South Goa,5
+The Leela Goa,Goa,20000,South Goa,5
+Vivanta Goa,Goa,12000,North Goa,4
+Novotel Goa Resort & Spa,Goa,12000,North Goa,4
+Grand Hyatt Goa,Goa,22000,North Goa,5
+Cidade de Goa,Goa,8000,North Goa,4
+Hard Rock Hotel Goa,Goa,15000,North Goa,4
+ITC Grand Goa Resort & Spa,Goa,16000,South Goa,5
+Alila Diwa Goa,Goa,14000,South Goa,5
+The Lalit Golf & Spa Resort Goa,Goa,17000,South Goa,5
+The Zuri White Sands Goa Resort & Casino,Goa,13000,South Goa,5
+The Fern Kadamba Hotel and Spa,Goa,9000,North Goa,4
+Acron Waterfront Resort,Goa,11000,North Goa,4
+The Crown Goa,Goa,7000,North Goa,3
+Rajvilas,Rajasthan,5000,Jaipur,5
+Taj Rambagh Palace,Rajasthan,8000,Jaipur,5
+Samode Haveli,Rajasthan,3000,Jaipur,4
+The Oberoi Udaivilas,Rajasthan,10000,Udaipur,5
+The Leela Palace Udaipur,Rajasthan,12000,Udaipur,5
+Jagmandir Island Palace,Rajasthan,6000,Udaipur,4
+Suryagarh,Rajasthan,6000,Jaisalmer,5
+The Gulaal,Rajasthan,4000,Jaisalmer,4
+Jawahar Niwas Palace,Rajasthan,2500,Jaisalmer,3
+Umaid Bhawan Palace,Rajasthan,9000,Jodhpur,5
+The Taj Gateway Hotel,Rajasthan,5000,Jodhpur,4
+Ratan Vilas,Rajasthan,3000,Jodhpur,3
+Pushkar Palace,Rajasthan,4000,Pushkar,4
+Ananta Spa & Resorts,Rajasthan,6000,Pushkar,4
+Bijay Niwas Palace,Rajasthan,3500,Ajmer,4
+The Gateway Resort,Rajasthan,4500,Ajmer,4
+Ranthambore Kothi,Rajasthan,7000,Ranthambore National Park,4
+The Oberoi Vanyavilas,Rajasthan,15000,Ranthambore National Park,5
+Chunda Palace,Rajasthan,6000,Udaipur,4
+Fateh Prakash Palace,Rajasthan,8000,Udaipur,5
+Hotel Hillock,Rajasthan,4000,Mount Abu,3
+Palanpur Palace Hotel,Rajasthan,3000,Mount Abu,3
+Laxmi Niwas Palace,Rajasthan,7000,Bikaner,5
+Lallgarh Palace,Rajasthan,5000,Bikaner,4
+Hotel Bhairon Vilas,Rajasthan,3000,Bikaner,3
+The Leela Raviz Kovalam,Kerala,10000,Kovalam,5
+Taj Green Cove Resort & Spa Kovalam,Kerala,8000,Kovalam,5
+Vivanta by Taj - Green Cove,Kerala,6000,Kovalam,4
+The Zuri Kumarakom,Kerala,9000,Kumarakom,5
+Kumarakom Lake Resort,Kerala,12000,Kumarakom,5
+Coconut Lagoon,Kerala,8000,Kumarakom,4
+Le Meridien Kochi,Kerala,6000,Kochi,5
+Kochi Marriott Hotel,Kerala,7000,Kochi,4
+Forte Kochi,Kerala,5000,Kochi,4
+Vivanta by Taj - Malabar,Kerala,9000,Kochi,5
+Windermere Estate,Kerala,5000,Munnar,4
+Tall Trees Resort,Kerala,4000,Munnar,4
+Parakkat Nature Resort,Kerala,3000,Munnar,3
+Punnamada Resort,Kerala,6000,Alleppey,4
+Lake Palace Resort,Kerala,5000,Alleppey,4
+Lemon Tree Vembanad Lake Resort,Kerala,4000,Alleppey,3
+Spice Village Resort,Kerala,7000,Thekkady,4
+Elephant Court Resort,Kerala,6000,Thekkady,4
+Greenwoods Resort,Kerala,5000,Thekkady,3
+Gateway Varkala,Kerala,8000,Varkala,5
+The Oceano Resort,Kerala,6000,Varkala,4
+Akathalam Heritage Homestay,Kerala,3000,Varkala,3
+Rainforest Resort,Kerala,9000,Athirappilly,5
+Great Hornbill Serviced Villa,Kerala,5000,Athirappilly,4
+Bethania Resorts,Kerala,7000,Wayanad,5
+Vythiri Village Resort,Kerala,6000,Wayanad,4
+Sharoy Resort,Kerala,5000,Wayanad,4
+The Nattika Beach Ayurveda Resort,Kerala,10000,Thrissur,5
+Casino Hotel,Kerala,6000,Thrissur,4
+Niya Regency,Kerala,3000,Thrissur,3
+Mayfair Spa Resort & Casino,Sikkim,5000,East Sikkim,5
+The Elgin Nor-Khill,Sikkim,4000,East Sikkim,4
+The Golden Crest Hotel,Sikkim,3000,East Sikkim,3
+Hotel Gangtok Drift,Sikkim,4500,Gangtok,5
+Summit Norling Resort & Spa,Sikkim,3500,Gangtok,4
+Hotel Tashi Thendup,Sikkim,2500,Gangtok,3
+The Yak & Yeti Hotel,Sikkim,5000,Tsomgo Lake,5
+The Silk Route Residency,Sikkim,4000,Tsomgo Lake,4
+Hotel Serenade,Sikkim,3000,Tsomgo Lake,3
+The White Conch Residency,Sikkim,5000,Nathula Pass,5
+Summit Golden Crescent Resort & Spa,Sikkim,4000,Nathula Pass,4
+Hotel Skylight,Sikkim,3000,Nathula Pass,3
+The Elgin Mount Pandim,Sikkim,5000,Pelling,5
+Magpie Chestnut Retreat,Sikkim,4000,Pelling,4
+Himalayan Retreat & Resort,Sikkim,3000,Pelling,3
+Hotel Mount Narsing,Sikkim,5000,Yuksom,5
+Tashigang Resort,Sikkim,4000,Yuksom,4
+Hotel Red Palace,Sikkim,3000,Yuksom,3
+Zuluk Residency,Sikkim,4500,Zuluk,5
+Seven Hills Village Resort,Sikkim,3500,Zuluk,4
+Padamchen Resort,Sikkim,2500,Zuluk,3
+Apple Orchard Resort,Sikkim,5000,Lachung and Lachen,5
+Yarlam Resort,Sikkim,4000,Lachung and Lachen,4
+Dongkheala Inn,Sikkim,3000,Lachung and Lachen,3
+The Barfung Retreat,Sikkim,4500,Ravangla,5
+Bella Vista Stay,Sikkim,3500,Ravangla,4
+Hotel Zumthang,Sikkim,2500,Ravangla,3
+Yak and Yeti Lodge,Sikkim,5000,Gurudongmar Lake,5
+The Hidden Valley Himalayan Resort,Sikkim,4000,Gurudongmar Lake,4
+Hotel Pemaling,Sikkim,3000,Gurudongmar Lake,3
+Hotel Royal Orchid & Spa,Sikkim,4500,Namchi,5
+The Cherry Resort,Sikkim,3500,Namchi,4
+Hotel Sai Kripa,Sikkim,2500,Namchi,3
+Taj Coromandel,Tamil Nadu,10000,Chennai,5
+The Leela Palace Chennai,Tamil Nadu,8000,Chennai,4
+Hyatt Regency Chennai,Tamil Nadu,6000,Chennai,3
+Sheraton Mahabaleshwar,Tamil Nadu,8000,Mahabaleshwar,5
+Brightland Resort & Spa,Tamil Nadu,6000,Mahabaleshwar,4
+Evershine Keys Prima Resort,Tamil Nadu,4000,Mahabaleshwar,3
+The Carlton,Tamil Nadu,9000,Kodaikanal,5
+Sterling Kodai Lake,Tamil Nadu,7000,Kodaikanal,4
+Hill Country Resort,Tamil Nadu,5000,Kodaikanal,3
+Heritage Madurai,Tamil Nadu,8000,Madurai,5
+Fortune Pandiyan Hotel,Tamil Nadu,6000,Madurai,4
+Hotel Germanus,Tamil Nadu,4000,Madurai,3
+Savoy Hotel Ooty,Tamil Nadu,9000,Ooty,5
+Taj Savoy Hotel Ooty,Tamil Nadu,7000,Ooty,4
+Sterling Ooty Elk Hill,Tamil Nadu,5000,Ooty,3
+Svatma Hotel Thanjavur,Tamil Nadu,8000,Thanjavur,5
+Ideal River Resort,Tamil Nadu,6000,Thanjavur,4
+Hotel Parisutham,Tamil Nadu,4000,Thanjavur,3
+Hyatt Place Rameshwaram,Tamil Nadu,9000,Rameshwaram,5
+The Gateway Hotel Rameswaram,Tamil Nadu,7000,Rameshwaram,4
+Hotel MCM Towers,Tamil Nadu,5000,Rameshwaram,3
+Sparsa Resort Kanyakumari,Tamil Nadu,8000,Kanyakumari,5
+The Gopinivas Grand Kanyakumari,Tamil Nadu,6000,Kanyakumari,4
+The Seashore Hotel,Tamil Nadu,4000,Kanyakumari,3
+Vivanta Coimbatore,Tamil Nadu,9000,Coimbatore,5
+WelcomHotel Coimbatore,Tamil Nadu,7000,Coimbatore,4
+Hotel Heritage Inn,Tamil Nadu,5000,Coimbatore,3
+Le Pondy,Pondicherry,8000,Pondicherry,5
+The Promenade,Pondicherry,6000,Pondicherry,4
+Palais de Mahe,Pondicherry,4000,Pondicherry,3
+Ri Kynjai - Serenity By The Lake,Meghalaya,8000,Shillong,5
+Hotel Polo Towers,Meghalaya,6000,Shillong,4
+Royal Heritage - Tripura Castle,Meghalaya,4000,Shillong,3
+Cherrapunjee Holiday Resort,Meghalaya,7000,Cherrapunji,5
+Sa-I-Mika Resort,Meghalaya,5000,Cherrapunji,4
+Hotel Polo Orchid Resort,Meghalaya,3000,Cherrapunji,3
+Mawlynnong Village Homestay,Meghalaya,6000,Mawlynnong,5
+Asia Homestay,Meghalaya,4000,Mawlynnong,4
+Mawlynnong Guesthouse,Meghalaya,3000,Mawlynnong,3
+Hotel Umkyrwi,Meghalaya,5000,Dawki,5
+Orchid Lake Resort,Meghalaya,3500,Dawki,4
+Hotel Dwarika Residency,Meghalaya,2500,Dawki,3
+Nongkhnum Island Camping,Meghalaya,4000,Nongkhnum Islands,5
+Nongkhnum Eco Resort,Meghalaya,3000,Nongkhnum Islands,4
+Nongkhnum Bamboo Resort,Meghalaya,2000,Nongkhnum Islands,3
+Hotel Misty Rain,Meghalaya,5000,Mawsynram,5
+Sohtyngkham Luxury Homestay,Meghalaya,3500,Mawsynram,4
+Vishal Guest House,Meghalaya,2500,Mawsynram,3
+Cherrapunjee Holiday Resort,Meghalaya,7000,Nohngithiang,5
+Sa-I-Mika Resort,Meghalaya,5000,Nohngithiang,4
+Hotel Polo Orchid Resort,Meghalaya,3000,Nohngithiang,3
+Balpakram Resorts,Meghalaya,6000,Balpakram National Park,5
+Hotel Jaintia,Meghalaya,4000,Balpakram National Park,4
+Forest Guest House,Meghalaya,3000,Balpakram National Park,3
+La Ri Sa Resort,Meghalaya,5000,Laitum,5
+Hotel Barbareek Inn,Meghalaya,3500,Laitum,4
+Blueberry Inn,Meghalaya,2500,Laitum,3
+Jaintia Guest House,Meghalaya,4000,Jaintia Hills,5
+Rymbai Guest House,Meghalaya,3000,Jaintia Hills,4
+Luit Hotel,Meghalaya,2000,Jaintia Hills,3
+The Oberoi Cecil,Himachal Pradesh,10000,Shimla,5
+Radisson Hotel Shimla,Himachal Pradesh,8000,Shimla,4
+Hotel Willow Banks,Himachal Pradesh,6000,Shimla,3
+Span Resorts & Spa,Himachal Pradesh,9000,Manali,5
+The Manali Inn,Himachal Pradesh,7000,Manali,4
+Apple Country Resort,Himachal Pradesh,5000,Manali,3
+Fortune Park Moksha,Himachal Pradesh,8000,Dharmashala and Mcleod Ganj,5
+Hotel Asia Health Resorts & Spa,Himachal Pradesh,6000,Dharmashala and Mcleod Ganj,4
+Hotel Akashdeep & Spa,Himachal Pradesh,4000,Dharmashala and Mcleod Ganj,3
+Spiti Valley Hotel,Himachal Pradesh,9000,Spiti Valley,5
+Hotel Snow Crest Inn,Himachal Pradesh,7000,Spiti Valley,4
+Keylinga Inn,Himachal Pradesh,5000,Spiti Valley,3
+Grand View Hotel,Himachal Pradesh,8000,Dalhousie,5
+Snow Valley Resorts,Himachal Pradesh,6000,Dalhousie,4
+Hotel Mount View,Himachal Pradesh,4000,Dalhousie,3
+The Himalayan Village,Himachal Pradesh,9000,Kullu,5
+Hotel Shobla International,Himachal Pradesh,7000,Kullu,4
+Hotel The Castle,Himachal Pradesh,5000,Kullu,3
+Kasol Heights,Himachal Pradesh,8000,Kasol,5
+Parvati Woods Cottage,Himachal Pradesh,6000,Kasol,4
+Hotel Sandhya Kasol,Himachal Pradesh,4000,Kasol,3
+Hotel Alpine Resort,Himachal Pradesh,9000,Kinnaur,5
+The Grand Shamba-La,Himachal Pradesh,7000,Kinnaur,4
+Hotel Apple Pie,Himachal Pradesh,5000,Kinnaur,3
+Hotel Iravati,Himachal Pradesh,8000,Chamba,5
+Hotel Aroma Palace,Himachal Pradesh,6000,Chamba,4
+Classic Hill Top Resort,Himachal Pradesh,4000,Chamba,3
+RS Sarovar Portico,Himachal Pradesh,9000,Palampur,5
+Hotel T-Bud,Himachal Pradesh,7000,Palampur,4
+The Citadel Resorts,Himachal Pradesh,5000,Palampur,3
+The Oberoi Amarvilas,Uttar Pradesh,15000,Agra,5
+ITC Mughal - A Luxury Collection Hotel,Uttar Pradesh,10000,Agra,4
+Radisson Hotel Agra,Uttar Pradesh,8000,Agra,3
+Taj Nadesar Palace,Uttar Pradesh,12000,Varanasi,5
+Hotel Surya,Uttar Pradesh,8000,Varanasi,4
+Ganges Grand Hotel,Uttar Pradesh,6000,Varanasi,3
+Hyatt Regency Lucknow,Uttar Pradesh,9000,Lucknow,5
+Renaissance Lucknow Hotel,Uttar Pradesh,7000,Lucknow,4
+Fortune Park BBD Hotel,Uttar Pradesh,5000,Lucknow,3
+Hotel Kanha Shyam,Uttar Pradesh,8000,Allahabad,5
+Hotel Polo Max Allahabad,Uttar Pradesh,6000,Allahabad,4
+Hotel Grand Continental Allahabad,Uttar Pradesh,4000,Allahabad,3
+Clarks Inn Mathura,Uttar Pradesh,6000,Mathura and Vrindavan,5
+Divinity By Audra Hotels,Uttar Pradesh,4000,Mathura and Vrindavan,4
+Brijwasi Royal Hotel,Uttar Pradesh,3000,Mathura and Vrindavan,3
+Ramada Plaza Lucknow,Uttar Pradesh,9000,Ayodhya,5
+The Grand Imperial - Heritage Hotel,Uttar Pradesh,7000,Ayodhya,4
+Vishnu Palace Hotel,Uttar Pradesh,5000,Ayodhya,3
+Hotel Varuna,Uttar Pradesh,8000,Sarnath,5
+Hotel J S Residency,Uttar Pradesh,6000,Sarnath,4
+Hotel Ideal Tower,Uttar Pradesh,4000,Sarnath,3
+Hotel Tulsi,Uttar Pradesh,8000,Jhansi,5
+Hotel Ambience,Uttar Pradesh,6000,Jhansi,4
+Hotel Yatrik,Uttar Pradesh,4000,Jhansi,3
+Wildlife Resort Dudhwa,Uttar Pradesh,9000,Dudhwa National Park,5
+Hotel Pratap Palace,Uttar Pradesh,7000,Dudhwa National Park,4
+Hansraj Resort,Uttar Pradesh,5000,Dudhwa National Park,3
+The Lalit Temple View Khajuraho,Madhya Pradesh,8000,Khajuraho,5
+Ramada Khajuraho,Madhya Pradesh,6000,Khajuraho,4
+Clarks Khajuraho,Madhya Pradesh,4000,Khajuraho,3
+Jehan Numa Palace Hotel,Madhya Pradesh,9000,Bhopal,5
+Courtyard by Marriott Bhopal,Madhya Pradesh,7000,Bhopal,4
+Hotel Lake View Ashok,Madhya Pradesh,5000,Bhopal,3
+Radisson Blu Hotel Indore,Madhya Pradesh,8000,Indore,5
+Lemon Tree Hotel Indore,Madhya Pradesh,6000,Indore,4
+Hotel Amar Vilas Indore,Madhya Pradesh,4000,Indore,3
+Malwa Resort,Madhya Pradesh,9000,Mandu,5
+Hotel Royal Palace,Madhya Pradesh,7000,Mandu,4
+Malwa Retreat,Madhya Pradesh,5000,Mandu,3
+Anjushree Hotel,Madhya Pradesh,8000,Ujjain,5
+Hotel Imperial Ujjain,Madhya Pradesh,6000,Ujjain,4
+Hotel Mittal Paradise,Madhya Pradesh,4000,Ujjain,3
+Hotel Samdariya Inn,Madhya Pradesh,9000,Jabalpur,5
+Hotel Satya Ashoka,Madhya Pradesh,7000,Jabalpur,4
+Vijan Mahal Hotel,Madhya Pradesh,5000,Jabalpur,3
+WelcomHeritage Golf View,Madhya Pradesh,8000,Pachmarhi,5
+Hotel Utkarsh,Madhya Pradesh,6000,Pachmarhi,4
+Hotel Pachmarhi,Madhya Pradesh,4000,Pachmarhi,3
+Amar Mahal,Madhya Pradesh,9000,Orchha,5
+Bundelkhand Riverside,Madhya Pradesh,7000,Orchha,4
+Hotel Betwa Retreat,Madhya Pradesh,5000,Orchha,3

@@ -1,0 +1,45 @@
+from flask import Flask, render_template, request
+import pandas as pd
+import pickle
+
+app = Flask(__name__)
+
+# Load the trained classifier
+with open('hotel.model', 'rb') as f:
+    classifier = pickle.load(f)
+
+# Load the dataset
+data = pd.read_csv("hotels1.csv")  # Replace "your_dataset.csv" with your actual dataset file
+
+# Homepage route
+@app.route('/')
+def index():
+    return render_template('home.html')
+
+# Recommendation route
+@app.route('/recommend', methods=['POST'])
+def recommend():
+    # Get user inputs from the form
+    user_state = request.form['state']
+    user_district = request.form['district']
+    user_price = float(request.form['price'])
+    user_stars = float(request.form['stars'])
+
+    # Check if the user-provided State and District are available in the dataset
+    if user_state not in data['State'].unique():
+        return render_template('error.html', message="The State you are searching for is not available.")
+    elif user_district not in data['District'].unique():
+        return render_template('error.html', message="The District you are searching for is not available.")
+    else:
+
+        # Find the nearest price and stars values in the dataset
+        nearest_data = data.iloc[(data['Price'] - user_price).abs().argsort()[:3]]
+        nearest_data = nearest_data.iloc[(nearest_data['Stars'] - user_stars).abs().argsort()[:3]]
+
+        # Get the hotel names from the nearest data
+        recommendations = nearest_data['Name'].tolist()
+
+        return render_template('home.html', recommendations=recommendations)
+
+if __name__ == '__main__':
+    app.run(debug=True)

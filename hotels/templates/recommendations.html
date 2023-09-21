@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotel Recommendation</title>
+</head>
+<body>
+    <h1>Hotel Recommendation</h1>
+    {% if recommendations %}
+    <h2>Recommendations:</h2>
+    <ul>
+        {% for recommendation in recommendations %}
+        <li>{{ recommendation }}</li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No recommendations found.</p>
+    {% endif %}
+</body>
+</html>

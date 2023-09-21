@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotel Recommendation</title>
+</head>
+<body>
+    <h1>Hotel Recommendation</h1>
+
+ 
+
+    <h2>Search for Hotels:</h2>
+    <form action="/recommend" method="POST">
+        <label for="state">State:</label>
+        <input type="text" name="state" required><br><br>
+
+        <label for="district">District:</label>
+        <input type="text" name="district" required><br><br>
+
+        <label for="price">Price:</label>
+        <input type="number" name="price" step="0.01" required><br><br>
+
+        <label for="stars">Stars:</label>
+        <input type="number" name="stars" step="0.1" required><br><br>
+
+        <input type="submit" value="Search">
+   {% if recommendations %}
+    <h2>Recommendations:</h2>
+    <ul>
+        {% for recommendation in recommendations %}
+        <li>{{ recommendation }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    </form>
+</body>
+</html>

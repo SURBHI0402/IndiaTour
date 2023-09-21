@@ -1,0 +1,3603 @@
+{"data":[
+  {
+    "Place": "Gateway of India",
+    "Year": 2018,
+    "Population": 1500000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Gateway of India",
+    "Year": 2019,
+    "Population": 1600000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Gateway of India",
+    "Year": 2020,
+    "Population": 1400000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Gateway of India",
+    "Year": 2021,
+    "Population": 1800000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Gateway of India",
+    "Year": 2022,
+    "Population": 2000000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Gateway of India",
+    "Year": 2023,
+    "Population": 1900000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta and Ellora Caves",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta and Ellora Caves",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta and Ellora Caves",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta and Ellora Caves",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta and Ellora Caves",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta and Ellora Caves",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Elephanta Caves",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Elephanta Caves",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Elephanta Caves",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Elephanta Caves",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Elephanta Caves",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Elephanta Caves",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Shirdi Sai Baba",
+    "Year": 2018,
+    "Population": 1200000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Shirdi Sai Baba",
+    "Year": 2019,
+    "Population": 1300000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Shirdi Sai Baba",
+    "Year": 2020,
+    "Population": 1100000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Shirdi Sai Baba",
+    "Year": 2021,
+    "Population": 1400000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Shirdi Sai Baba",
+    "Year": 2022,
+    "Population": 1500000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Shirdi Sai Baba",
+    "Year": 2023,
+    "Population": 1450000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Lonavla-Khandala",
+    "Year": 2018,
+    "Population": 1000000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Lonavla-Khandala",
+    "Year": 2019,
+    "Population": 1100000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Lonavla-Khandala",
+    "Year": 2020,
+    "Population": 900000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Lonavla-Khandala",
+    "Year": 2021,
+    "Population": 1200000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Lonavla-Khandala",
+    "Year": 2022,
+    "Population": 1300000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Lonavla-Khandala",
+    "Year": 2023,
+    "Population": 1250000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Mahbaleshwar",
+    "Year": 2018,
+    "Population": 700000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Mahbaleshwar",
+    "Year": 2019,
+    "Population": 800000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Mahbaleshwar",
+    "Year": 2020,
+    "Population": 650000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Mahbaleshwar",
+    "Year": 2021,
+    "Population": 900000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Mahbaleshwar",
+    "Year": 2022,
+    "Population": 950000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Mahbaleshwar",
+    "Year": 2023,
+    "Population": 920000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Matheran",
+    "Year": 2018,
+    "Population": 600000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Matheran",
+    "Year": 2019,
+    "Population": 700000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Matheran",
+    "Year": 2020,
+    "Population": 550000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Matheran",
+    "Year": 2021,
+    "Population": 800000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Matheran",
+    "Year": 2022,
+    "Population": 850000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Matheran",
+    "Year": 2023,
+    "Population": 820000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Tadoba Andhari Tiger Reserve",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Tadoba Andhari Tiger Reserve",
+    "Year": 2019,
+    "Population": 600000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Tadoba Andhari Tiger Reserve",
+    "Year": 2020,
+    "Population": 450000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Tadoba Andhari Tiger Reserve",
+    "Year": 2021,
+    "Population": 700000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Tadoba Andhari Tiger Reserve",
+    "Year": 2022,
+    "Population": 750000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Tadoba Andhari Tiger Reserve",
+    "Year": 2023,
+    "Population": 720000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta",
+    "Year": 2018,
+    "Population": 720000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta",
+    "Year": 2019,
+    "Population": 700000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta",
+    "Year": 2020,
+    "Population": 850000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta",
+    "Year": 2021,
+    "Population": 720000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta",
+    "Year": 2022,
+    "Population": 520000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Ajanta",
+    "Year": 2023,
+    "Population": 220000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Kolhapur",
+    "Year": 2018,
+    "Population": 900000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Kolhapur",
+    "Year": 2019,
+    "Population": 1000000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Kolhapur",
+    "Year": 2020,
+    "Population": 850000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Kolhapur",
+    "Year": 2021,
+    "Population": 1100000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Kolhapur",
+    "Year": 2022,
+    "Population": 1200000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Kolhapur",
+    "Year": 2023,
+    "Population": 1150000,
+    "State": "Maharashtra"
+  },
+  {
+    "Place": "Baga Beach",
+    "Year": 2018,
+    "Population": 1000000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Baga Beach",
+    "Year": 2019,
+    "Population": 1100000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Baga Beach",
+    "Year": 2020,
+    "Population": 950000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Baga Beach",
+    "Year": 2021,
+    "Population": 1200000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Baga Beach",
+    "Year": 2022,
+    "Population": 1300000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Baga Beach",
+    "Year": 2023,
+    "Population": 1250000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Calangute Beach",
+    "Year": 2018,
+    "Population": 900000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Calangute Beach",
+    "Year": 2019,
+    "Population": 1000000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Calangute Beach",
+    "Year": 2020,
+    "Population": 850000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Calangute Beach",
+    "Year": 2021,
+    "Population": 1100000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Calangute Beach",
+    "Year": 2022,
+    "Population": 1200000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Calangute Beach",
+    "Year": 2023,
+    "Population": 1150000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Old Goa",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Old Goa",
+    "Year": 2019,
+    "Population": 600000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Old Goa",
+    "Year": 2020,
+    "Population": 450000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Old Goa",
+    "Year": 2021,
+    "Population": 700000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Old Goa",
+    "Year": 2022,
+    "Population": 750000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Old Goa",
+    "Year": 2023,
+    "Population": 720000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Falls",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Falls",
+    "Year": 2019,
+    "Population": 400000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Falls",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Falls",
+    "Year": 2021,
+    "Population": 450000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Falls",
+    "Year": 2022,
+    "Population": 500000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Falls",
+    "Year": 2023,
+    "Population": 480000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Fort Aguada",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Fort Aguada",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Fort Aguada",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Fort Aguada",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Fort Aguada",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Fort Aguada",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Anjuna Flea Market",
+    "Year": 2018,
+    "Population": 200000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Anjuna Flea Market",
+    "Year": 2019,
+    "Population": 250000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Anjuna Flea Market",
+    "Year": 2020,
+    "Population": 180000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Anjuna Flea Market",
+    "Year": 2021,
+    "Population": 280000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Anjuna Flea Market",
+    "Year": 2022,
+    "Population": 300000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Anjuna Flea Market",
+    "Year": 2023,
+    "Population": 290000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Palolem Beach",
+    "Year": 2018,
+    "Population": 600000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Palolem Beach",
+    "Year": 2019,
+    "Population": 700000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Palolem Beach",
+    "Year": 2020,
+    "Population": 550000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Palolem Beach",
+    "Year": 2021,
+    "Population": 800000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Palolem Beach",
+    "Year": 2022,
+    "Population": 850000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Palolem Beach",
+    "Year": 2023,
+    "Population": 820000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Chapora Fort",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Chapora Fort",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Chapora Fort",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Chapora Fort",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Chapora Fort",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Chapora Fort",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Spice Plantations",
+    "Year": 2018,
+    "Population": 280000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Spice Plantations",
+    "Year": 2019,
+    "Population": 360000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Spice Plantations",
+    "Year": 2020,
+    "Population": 200000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Spice Plantations",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Spice Plantations",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dudhsagar Spice Plantations",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dona Paula",
+    "Year": 2018,
+    "Population": 200000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dona Paula",
+    "Year": 2019,
+    "Population": 250000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dona Paula",
+    "Year": 2020,
+    "Population": 180000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dona Paula",
+    "Year": 2021,
+    "Population": 280000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dona Paula",
+    "Year": 2022,
+    "Population": 300000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Dona Paula",
+    "Year": 2023,
+    "Population": 290000,
+    "State": "Goa"
+  },
+  {
+    "Place": "Jaipur",
+    "Year": 2018,
+    "Population": 2000000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaipur",
+    "Year": 2019,
+    "Population": 2200000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaipur",
+    "Year": 2020,
+    "Population": 1800000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaipur",
+    "Year": 2021,
+    "Population": 2400000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaipur",
+    "Year": 2022,
+    "Population": 2600000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaipur",
+    "Year": 2023,
+    "Population": 2500000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Udaipur",
+    "Year": 2018,
+    "Population": 1500000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Udaipur",
+    "Year": 2019,
+    "Population": 1600000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Udaipur",
+    "Year": 2020,
+    "Population": 1400000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Udaipur",
+    "Year": 2021,
+    "Population": 1800000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Udaipur",
+    "Year": 2022,
+    "Population": 2000000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Udaipur",
+    "Year": 2023,
+    "Population": 1900000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaisalmer",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaisalmer",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaisalmer",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaisalmer",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaisalmer",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jaisalmer",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jodhpur",
+    "Year": 2018,
+    "Population": 1000000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jodhpur",
+    "Year": 2019,
+    "Population": 1100000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jodhpur",
+    "Year": 2020,
+    "Population": 900000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jodhpur",
+    "Year": 2021,
+    "Population": 1200000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jodhpur",
+    "Year": 2022,
+    "Population": 1300000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Jodhpur",
+    "Year": 2023,
+    "Population": 1250000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Pushkar",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Pushkar",
+    "Year": 2019,
+    "Population": 600000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Pushkar",
+    "Year": 2020,
+    "Population": 450000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Pushkar",
+    "Year": 2021,
+    "Population": 700000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Pushkar",
+    "Year": 2022,
+    "Population": 750000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Pushkar",
+    "Year": 2023,
+    "Population": 720000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ajmer",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ajmer",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ajmer",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ajmer",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ajmer",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ajmer",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ranthambore National Park",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ranthambore National Park",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ranthambore National Park",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ranthambore National Park",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ranthambore National Park",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Ranthambore National Park",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Chittorgarh Fort",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Chittorgarh Fort",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Chittorgarh Fort",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Chittorgarh Fort",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Chittorgarh Fort",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Chittorgarh Fort",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Mount Abu",
+    "Year": 2018,
+    "Population": 600000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Mount Abu",
+    "Year": 2019,
+    "Population": 700000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Mount Abu",
+    "Year": 2020,
+    "Population": 550000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Mount Abu",
+    "Year": 2021,
+    "Population": 800000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Mount Abu",
+    "Year": 2022,
+    "Population": 850000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Mount Abu",
+    "Year": 2023,
+    "Population": 820000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Bikaner",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Bikaner",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Bikaner",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Bikaner",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Bikaner",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Bikaner",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Rajasthan"
+  },
+  {
+    "Place": "Alleppey",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Alleppey",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Alleppey",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Alleppey",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Alleppey",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Alleppey",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Munnar",
+    "Year": 2018,
+    "Population": 1000000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Munnar",
+    "Year": 2019,
+    "Population": 1100000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Munnar",
+    "Year": 2020,
+    "Population": 900000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Munnar",
+    "Year": 2021,
+    "Population": 1200000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Munnar",
+    "Year": 2022,
+    "Population": 1300000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Munnar",
+    "Year": 2023,
+    "Population": 1250000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kochi (Cochin)",
+    "Year": 2018,
+    "Population": 1500000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kochi (Cochin)",
+    "Year": 2019,
+    "Population": 1600000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kochi (Cochin)",
+    "Year": 2020,
+    "Population": 1400000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kochi (Cochin)",
+    "Year": 2021,
+    "Population": 1800000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kochi (Cochin)",
+    "Year": 2022,
+    "Population": 2000000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kochi (Cochin)",
+    "Year": 2023,
+    "Population": 1900000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Wayanad",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Wayanad",
+    "Year": 2019,
+    "Population": 600000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Wayanad",
+    "Year": 2020,
+    "Population": 450000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Wayanad",
+    "Year": 2021,
+    "Population": 700000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Wayanad",
+    "Year": 2022,
+    "Population": 750000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Wayanad",
+    "Year": 2023,
+    "Population": 720000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thekkady",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thekkady",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thekkady",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thekkady",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thekkady",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thekkady",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kumarakom",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kumarakom",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kumarakom",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kumarakom",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kumarakom",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kumarakom",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kovalam",
+    "Year": 2018,
+    "Population": 700000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kovalam",
+    "Year": 2019,
+    "Population": 800000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kovalam",
+    "Year": 2020,
+    "Population": 650000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kovalam",
+    "Year": 2021,
+    "Population": 900000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kovalam",
+    "Year": 2022,
+    "Population": 950000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Kovalam",
+    "Year": 2023,
+    "Population": 920000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Varkala",
+    "Year": 2018,
+    "Population": 600000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Varkala",
+    "Year": 2019,
+    "Population": 700000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Varkala",
+    "Year": 2020,
+    "Population": 550000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Varkala",
+    "Year": 2021,
+    "Population": 800000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Varkala",
+    "Year": 2022,
+    "Population": 850000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Varkala",
+    "Year": 2023,
+    "Population": 820000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Athirappilly",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Athirappilly",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Athirappilly",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Athirappilly",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Athirappilly",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Athirappilly",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thrissur",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thrissur",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thrissur",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thrissur",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thrissur",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Thrissur",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Kerala"
+  },
+  {
+    "Place": "Chennai",
+    "Year": 2018,
+    "Population": 2000000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Chennai",
+    "Year": 2019,
+    "Population": 2200000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Chennai",
+    "Year": 2020,
+    "Population": 1800000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Chennai",
+    "Year": 2021,
+    "Population": 2400000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Chennai",
+    "Year": 2022,
+    "Population": 2600000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Chennai",
+    "Year": 2023,
+    "Population": 2500000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Mahabalipuram",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Mahabalipuram",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Mahabalipuram",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Mahabalipuram",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Mahabalipuram",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Mahabalipuram",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Madurai",
+    "Year": 2018,
+    "Population": 1000000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Madurai",
+    "Year": 2019,
+    "Population": 1100000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Madurai",
+    "Year": 2020,
+    "Population": 900000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Madurai",
+    "Year": 2021,
+    "Population": 1200000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Madurai",
+    "Year": 2022,
+    "Population": 1300000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Madurai",
+    "Year": 2023,
+    "Population": 1250000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kodaikanal",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kodaikanal",
+    "Year": 2019,
+    "Population": 600000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kodaikanal",
+    "Year": 2020,
+    "Population": 450000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kodaikanal",
+    "Year": 2021,
+    "Population": 700000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kodaikanal",
+    "Year": 2022,
+    "Population": 750000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kodaikanal",
+    "Year": 2023,
+    "Population": 720000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Ooty",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Ooty",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Ooty",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Ooty",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Ooty",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Ooty",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Thanjavur",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Thanjavur",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Thanjavur",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Thanjavur",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Thanjavur",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Thanjavur",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Rameshwaram",
+    "Year": 2018,
+    "Population": 700000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Rameshwaram",
+    "Year": 2019,
+    "Population": 800000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Rameshwaram",
+    "Year": 2020,
+    "Population": 650000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Rameshwaram",
+    "Year": 2021,
+    "Population": 900000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Rameshwaram",
+    "Year": 2022,
+    "Population": 950000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Rameshwaram",
+    "Year": 2023,
+    "Population": 920000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kanyakumari",
+    "Year": 2018,
+    "Population": 600000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kanyakumari",
+    "Year": 2019,
+    "Population": 700000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kanyakumari",
+    "Year": 2020,
+    "Population": 550000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kanyakumari",
+    "Year": 2021,
+    "Population": 800000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kanyakumari",
+    "Year": 2022,
+    "Population": 850000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Kanyakumari",
+    "Year": 2023,
+    "Population": 820000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Coimbatore",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Coimbatore",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Coimbatore",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Coimbatore",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Coimbatore",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Coimbatore",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Pondicherry",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Pondicherry",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Pondicherry",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Pondicherry",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Pondicherry",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Pondicherry",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Tamil Nadu"
+  },
+  {
+    "Place": "Gangtok",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gangtok",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gangtok",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gangtok",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gangtok",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gangtok",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Tsomgo Lake",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Tsomgo Lake",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Tsomgo Lake",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Tsomgo Lake",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Tsomgo Lake",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Tsomgo Lake",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Nathula Pass",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Nathula Pass",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Nathula Pass",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Nathula Pass",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Nathula Pass",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Nathula Pass",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Pelling",
+    "Year": 2018,
+    "Population": 200000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Pelling",
+    "Year": 2019,
+    "Population": 220000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Pelling",
+    "Year": 2020,
+    "Population": 180000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Pelling",
+    "Year": 2021,
+    "Population": 240000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Pelling",
+    "Year": 2022,
+    "Population": 260000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Pelling",
+    "Year": 2023,
+    "Population": 250000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Yuksom",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Yuksom",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Yuksom",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Yuksom",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Yuksom",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Yuksom",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Zuluk",
+    "Year": 2018,
+    "Population": 80000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Zuluk",
+    "Year": 2019,
+    "Population": 90000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Zuluk",
+    "Year": 2020,
+    "Population": 75000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Zuluk",
+    "Year": 2021,
+    "Population": 100000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Zuluk",
+    "Year": 2022,
+    "Population": 110000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Zuluk",
+    "Year": 2023,
+    "Population": 105000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Lachung and Lachen",
+    "Year": 2018,
+    "Population": 150000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Lachung and Lachen",
+    "Year": 2019,
+    "Population": 160000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Lachung and Lachen",
+    "Year": 2020,
+    "Population": 140000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Lachung and Lachen",
+    "Year": 2021,
+    "Population": 180000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Lachung and Lachen",
+    "Year": 2022,
+    "Population": 200000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Lachung and Lachen",
+    "Year": 2023,
+    "Population": 190000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Ravangla",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Ravangla",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Ravangla",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Ravangla",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Ravangla",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Ravangla",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gurudongmar Lake",
+    "Year": 2018,
+    "Population": 50000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gurudongmar Lake",
+    "Year": 2019,
+    "Population": 60000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gurudongmar Lake",
+    "Year": 2020,
+    "Population": 45000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gurudongmar Lake",
+    "Year": 2021,
+    "Population": 70000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gurudongmar Lake",
+    "Year": 2022,
+    "Population": 75000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Gurudongmar Lake",
+    "Year": 2023,
+    "Population": 72000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Namchi",
+    "Year": 2018,
+    "Population": 150000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Namchi",
+    "Year": 2019,
+    "Population": 160000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Namchi",
+    "Year": 2020,
+    "Population": 140000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Namchi",
+    "Year": 2021,
+    "Population": 180000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Namchi",
+    "Year": 2022,
+    "Population": 200000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Namchi",
+    "Year": 2023,
+    "Population": 190000,
+    "State": "Sikkim"
+  },
+  {
+    "Place": "Shillong",
+    "Year": 2018,
+    "Population": 600000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Shillong",
+    "Year": 2019,
+    "Population": 650000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Shillong",
+    "Year": 2020,
+    "Population": 550000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Shillong",
+    "Year": 2021,
+    "Population": 700000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Shillong",
+    "Year": 2022,
+    "Population": 750000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Shillong",
+    "Year": 2023,
+    "Population": 720000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Cherrapunji",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Cherrapunji",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Cherrapunji",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Cherrapunji",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Cherrapunji",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Cherrapunji",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawlynnong",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawlynnong",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawlynnong",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawlynnong",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawlynnong",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawlynnong",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Dawki",
+    "Year": 2018,
+    "Population": 150000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Dawki",
+    "Year": 2019,
+    "Population": 160000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Dawki",
+    "Year": 2020,
+    "Population": 140000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Dawki",
+    "Year": 2021,
+    "Population": 180000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Dawki",
+    "Year": 2022,
+    "Population": 200000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Dawki",
+    "Year": 2023,
+    "Population": 190000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongkhnum",
+    "Year": 2018,
+    "Population": 80000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongkhnum",
+    "Year": 2019,
+    "Population": 90000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongkhnum",
+    "Year": 2020,
+    "Population": 75000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongkhnum",
+    "Year": 2021,
+    "Population": 100000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongkhnum",
+    "Year": 2022,
+    "Population": 110000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongkhnum",
+    "Year": 2023,
+    "Population": 105000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawsynram",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawsynram",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawsynram",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawsynram",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawsynram",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Mawsynram",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nohsngithiang Falls",
+    "Year": 2018,
+    "Population": 50000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nohsngithiang Falls",
+    "Year": 2019,
+    "Population": 60000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nohsngithiang Falls",
+    "Year": 2020,
+    "Population": 45000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nohsngithiang Falls",
+    "Year": 2021,
+    "Population": 70000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nohsngithiang Falls",
+    "Year": 2022,
+    "Population": 75000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nohsngithiang Falls",
+    "Year": 2023,
+    "Population": 72000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Balpakram National Park",
+    "Year": 2018,
+    "Population": 20000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Balpakram National Park",
+    "Year": 2019,
+    "Population": 25000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Balpakram National Park",
+    "Year": 2020,
+    "Population": 18000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Balpakram National Park ",
+    "Year": 2021,
+    "Population": 30000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Balpakram National Park",
+    "Year": 2022,
+    "Population": 35000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Balpakram National Park",
+    "Year": 2023,
+    "Population": 32000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Laithlum Canyons",
+    "Year": 2018,
+    "Population": 50000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Laitlum Canyons",
+    "Year": 2019,
+    "Population": 60000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Laitlum Canyons",
+    "Year": 2020,
+    "Population": 45000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Laitlum Canyons",
+    "Year": 2021,
+    "Population": 70000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Laitlum Canyons",
+    "Year": 2022,
+    "Population": 75000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Laitlum Canyons",
+    "Year": 2023,
+    "Population": 72000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongpoh",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongpoh",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongpoh",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongpoh",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongpoh",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Nongpoh",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Meghalaya"
+  },
+  {
+    "Place": "Shimla",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Shimla",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Shimla",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Shimla",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Shimla",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Shimla",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Manali",
+    "Year": 2018,
+    "Population": 700000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Manali",
+    "Year": 2019,
+    "Population": 800000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Manali",
+    "Year": 2020,
+    "Population": 650000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Manali",
+    "Year": 2021,
+    "Population": 900000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Manali",
+    "Year": 2022,
+    "Population": 950000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Manali",
+    "Year": 2023,
+    "Population": 920000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dharamshala and McLeod Ganj",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dharamshala and McLeod Ganj",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dharamshala and McLeod Ganj",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dharamshala and McLeod Ganj",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dharamshala and McLeod Ganj",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dharamshala and McLeod Ganj",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Spiti Valley",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Spiti Valley",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Spiti Valley",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Spiti Valley",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Spiti Valley",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Spiti Valley",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dalhousie",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dalhousie",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dalhousie",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dalhousie",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dalhousie",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Dalhousie",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kullu",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kullu",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kullu",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kullu",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kullu",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kullu",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kasol",
+    "Year": 2018,
+    "Population": 200000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kasol",
+    "Year": 2019,
+    "Population": 220000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kasol",
+    "Year": 2020,
+    "Population": 180000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kasol",
+    "Year": 2021,
+    "Population": 240000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kasol",
+    "Year": 2022,
+    "Population": 260000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kasol",
+    "Year": 2023,
+    "Population": 250000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kinnaur",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kinnaur",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kinnaur",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kinnaur",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kinnaur",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Kinnaur",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Chamba",
+    "Year": 2018,
+    "Population": 150000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Chamba",
+    "Year": 2019,
+    "Population": 160000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Chamba",
+    "Year": 2020,
+    "Population": 140000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Chamba",
+    "Year": 2021,
+    "Population": 180000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Chamba",
+    "Year": 2022,
+    "Population": 200000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Chamba",
+    "Year": 2023,
+    "Population": 190000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Palampur",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Palampur",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Palampur",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Palampur",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Palampur",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Palampur",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Himachal Pradesh"
+  },
+  {
+    "Place": "Agra",
+    "Year": 2018,
+    "Population": 2000000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Agra",
+    "Year": 2019,
+    "Population": 2200000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Agra",
+    "Year": 2020,
+    "Population": 1800000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Agra",
+    "Year": 2021,
+    "Population": 2400000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Agra",
+    "Year": 2022,
+    "Population": 2600000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Agra",
+    "Year": 2023,
+    "Population": 2500000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Varanasi",
+    "Year": 2018,
+    "Population": 1500000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Varanasi",
+    "Year": 2019,
+    "Population": 1600000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Varanasi",
+    "Year": 2020,
+    "Population": 1400000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Varanasi",
+    "Year": 2021,
+    "Population": 1800000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Varanasi",
+    "Year": 2022,
+    "Population": 2000000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Varanasi",
+    "Year": 2023,
+    "Population": 1900000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Lucknow",
+    "Year": 2018,
+    "Population": 1200000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Lucknow",
+    "Year": 2019,
+    "Population": 1300000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Lucknow",
+    "Year": 2020,
+    "Population": 1100000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Lucknow",
+    "Year": 2021,
+    "Population": 1400000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Lucknow",
+    "Year": 2022,
+    "Population": 1500000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Lucknow",
+    "Year": 2023,
+    "Population": 1450000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Allahabad",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Allahabad",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Allahabad",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Allahabad",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Allahabad",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Allahabad",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Ayodhya",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Ayodhya",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Ayodhya",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Ayodhya",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Ayodhya",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Ayodhya",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Sarnath",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Sarnath",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Sarnath",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Sarnath",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Sarnath",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Sarnath",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Jhansi",
+    "Year": 2018,
+    "Population": 200000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Jhansi",
+    "Year": 2019,
+    "Population": 220000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Jhansi",
+    "Year": 2020,
+    "Population": 180000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Jhansi",
+    "Year": 2021,
+    "Population": 240000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Jhansi",
+    "Year": 2022,
+    "Population": 260000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Jhansi",
+    "Year": 2023,
+    "Population": 250000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Dudhwa National Park",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Dudhwa National Park",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Dudhwa National Park",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Dudhwa National Park",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Dudhwa National Park",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Dudhwa National Park",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Chitrakoot",
+    "Year": 2018,
+    "Population": 150000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Chitrakoot",
+    "Year": 2019,
+    "Population": 160000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Chitrakoot",
+    "Year": 2020,
+    "Population": 140000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Chitrakoot",
+    "Year": 2021,
+    "Population": 180000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Chitrakoot",
+    "Year": 2022,
+    "Population": 200000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Chitrakoot",
+    "Year": 2023,
+    "Population": 190000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Mathura and Vrindavan",
+    "Year": 2018,
+    "Population": 750000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Mathura and Vrindavan",
+    "Year": 2019,
+    "Population": 780000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Mathura and Vrindavan",
+    "Year": 2020,
+    "Population": 830000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Mathura and Vrindavan",
+    "Year": 2021,
+    "Population": 900000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Mathura and Vrindavan",
+    "Year": 2022,
+    "Population": 950000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Mathura and Vrindavan",
+    "Year": 2023,
+    "Population": 1000000,
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Place": "Khajuraho",
+    "Year": 2018,
+    "Population": 500000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Khajuraho",
+    "Year": 2019,
+    "Population": 550000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Khajuraho",
+    "Year": 2020,
+    "Population": 480000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Khajuraho",
+    "Year": 2021,
+    "Population": 600000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Khajuraho",
+    "Year": 2022,
+    "Population": 650000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Khajuraho",
+    "Year": 2023,
+    "Population": 620000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Bhopal",
+    "Year": 2018,
+    "Population": 800000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Bhopal",
+    "Year": 2019,
+    "Population": 900000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Bhopal",
+    "Year": 2020,
+    "Population": 750000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Bhopal",
+    "Year": 2021,
+    "Population": 1000000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Bhopal",
+    "Year": 2022,
+    "Population": 1100000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Bhopal",
+    "Year": 2023,
+    "Population": 1050000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Gwalior",
+    "Year": 2018,
+    "Population": 400000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Gwalior",
+    "Year": 2019,
+    "Population": 450000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Gwalior",
+    "Year": 2020,
+    "Population": 350000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Gwalior",
+    "Year": 2021,
+    "Population": 500000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Gwalior",
+    "Year": 2022,
+    "Population": 550000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Gwalior",
+    "Year": 2023,
+    "Population": 520000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Indore",
+    "Year": 2018,
+    "Population": 700000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Indore",
+    "Year": 2019,
+    "Population": 800000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Indore",
+    "Year": 2020,
+    "Population": 650000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Indore",
+    "Year": 2021,
+    "Population": 900000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Indore",
+    "Year": 2022,
+    "Population": 950000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Indore",
+    "Year": 2023,
+    "Population": 920000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Mandu",
+    "Year": 2018,
+    "Population": 200000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Mandu",
+    "Year": 2019,
+    "Population": 250000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Mandu",
+    "Year": 2020,
+    "Population": 180000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Mandu",
+    "Year": 2021,
+    "Population": 300000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Mandu",
+    "Year": 2022,
+    "Population": 350000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Mandu",
+    "Year": 2023,
+    "Population": 320000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Ujjain",
+    "Year": 2018,
+    "Population": 300000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Ujjain",
+    "Year": 2019,
+    "Population": 350000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Ujjain",
+    "Year": 2020,
+    "Population": 280000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Ujjain",
+    "Year": 2021,
+    "Population": 400000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Ujjain",
+    "Year": 2022,
+    "Population": 450000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Ujjain",
+    "Year": 2023,
+    "Population": 430000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Sanchi",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Sanchi",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Sanchi",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Sanchi",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Sanchi",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Sanchi",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Pachmarhi",
+    "Year": 2018,
+    "Population": 150000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Pachmarhi",
+    "Year": 2019,
+    "Population": 160000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Pachmarhi",
+    "Year": 2020,
+    "Population": 140000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Pachmarhi",
+    "Year": 2021,
+    "Population": 180000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Pachmarhi",
+    "Year": 2022,
+    "Population": 200000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Pachmarhi",
+    "Year": 2023,
+    "Population": 190000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Orchha",
+    "Year": 2018,
+    "Population": 100000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Orchha",
+    "Year": 2019,
+    "Population": 110000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Orchha",
+    "Year": 2020,
+    "Population": 90000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Orchha",
+    "Year": 2021,
+    "Population": 120000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Orchha",
+    "Year": 2022,
+    "Population": 130000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Orchha",
+    "Year": 2023,
+    "Population": 125000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Jabalpur",
+    "Year": 2018,
+    "Population": 190000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Jabalpur",
+    "Year": 2019,
+    "Population": 120000,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Jabalpur",
+    "Year": 2020,
+    "Population": 198005,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Jabalpur",
+    "Year": 2021,
+    "Population": 120756,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Jabalpur",
+    "Year": 2022,
+    "Population": 130089,
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Place": "Jabalpur",
+    "Year": 2023,
+    "Population": 178000,
+    "State": "Madhya Pradesh"
+  }
+]
+}
