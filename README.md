@@ -39,4 +39,4 @@ Explore, learn, and travel with India Tour! 🌍✈️
 
 ## Contact Us:
 
-Have questions, ideas, or magical spells to share? Reach out to us via the mystical portal at surbhi0424@gmail.com or open a mystical issue in this repository. We eagerly await your correspondence. 💌🔮
+Have questions, ideas, or magical spells to share? Reach out to us via the mystical portal at surbhi0424@gmail.com and 2020.pratham.shetty@ves.ac.in or open a mystical issue in this repository. We eagerly await your correspondence. 💌🔮
